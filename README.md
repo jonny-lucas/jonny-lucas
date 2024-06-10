@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonny-lucas
+- 😄 Pronouns: he/him
 - 👀 I’m interested in missions focused on accessibility, as I have worked on user oriented design in the medical and educational realms.
 - 📫 How to reach me: jonnylucas@live.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I competed in a state competition representing Stanford in Archery.
 
 <!---
